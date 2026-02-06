@@ -1,8 +1,6 @@
 # Fact-checking & data projects
 
-I am Aneta, a Czech professional living in Berlin since 2019, currently transitioning from procurement to fact-checking and data analysis.  
-I am preparing to study as a Gasthörerin at TU Berlin in SoSe 2026 and to start a BA at FU or HU in WiSe 2026/27.
-
+I am Aneta, a Czech professional living in Berlin since 2019.
 This repository collects my practice projects that combine:
 - political and media fact-checking,
 - work with official statistics,
